@@ -17,8 +17,8 @@ public class Main {
         ArrayList<ArrayList<Rocket>> U1Rockets=new ArrayList<>();
         ArrayList<ArrayList<Rocket>> U2Rockets=new ArrayList<>();
 
-        itemDirectories[0]="C:\\Users\\azraf\\OneDrive\\Documents\\CodingGround\\Java\\Space Challenge\\resources\\Phase-1.txt";
-        itemDirectories[1]="C:\\Users\\azraf\\OneDrive\\Documents\\CodingGround\\Java\\Space Challenge\\resources\\Phase-2.txt";
+        itemDirectories[0]="resources\\Phase-1.txt";
+        itemDirectories[1]="resources\\Phase-2.txt";
 
         Simulation simulate=new Simulation();
 
