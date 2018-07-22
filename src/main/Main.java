@@ -10,8 +10,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        int U1Costs=0;
-        int U2Costs=0;
+        int U1Costs=0; //in million
+        int U2Costs=0; //in million
         String[] itemDirectories=new String[2];
         ArrayList<ArrayList<Item>> phasesItems;
 
